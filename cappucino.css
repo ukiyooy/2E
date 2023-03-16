@@ -1,0 +1,24 @@
+.estilizacaoheader
+{
+    background-color: rgb(201, 145, 82);
+    color: black;
+
+}
+h1 {
+    text-align: center;
+}
+.imagem{
+    width: 20%;
+}
+.lista{
+display: inline-block;
+  
+}
+
+.paragrafo1 { 
+    font-size: 30px;
+}
+
+.paragrafos23 {
+    font-size: 16px;
+}
