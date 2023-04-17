@@ -1,0 +1,34 @@
+.cabecalho
+{
+    background-color: rgb(221, 175, 76)
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    background-color: rgb(255, 199, 115);
+}
+h3{
+    padding-left: 10%;
+}
+.imagem{
+    width: 20px;
+    background-image: linear-gradient(#aa987d);
+}
+p {
+    font-size: 20px
+}
+.paragrafo1 {
+ font-size:30px;
+ padding-top: 5%;
+}
+.paragrafos {
+    font-size: 16px;
+}
+.lista {
+    display: inline-block;
+    margin: 0 16px
+}
+footer{
+    background-color: black;
+}
